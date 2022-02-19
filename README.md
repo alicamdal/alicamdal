@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alicamdal
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in robotic and artificial intelligence
 - 🌱 I’m currently learning deep learning stuffs
 - 📫 You can get in touch with me via camdala@tcd.ie
