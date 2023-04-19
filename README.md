@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in robotic and artificial intelligence
-- 🌱 I’m currently learning deep learning stuffs
+- 👀 I’m interested in robotics, AI and Quantum Machine Learning
+- 🌱 I’m currently PhD student at Trinity College Dublin.
 - 📫 You can get in touch with me via camdala@tcd.ie
 
 <!---
