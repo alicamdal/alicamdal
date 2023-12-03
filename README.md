@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali
-- 👀 I’m interested in robotics, AI and Quantum Machine Learning
-- 🌱 I’m currently PhD student at Trinity College Dublin.
+- 👀 I’m interested in robotics and AI.
+- 🌱 I’m currently AI Software Engineer at Baykar Technology.
 - 📫 You can get in touch with me via camdala@tcd.ie
 
 <!---
